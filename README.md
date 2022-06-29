@@ -12,7 +12,21 @@ After using terraform apply to create the infrastructure,
 
 \# show the details of a particular resource
 
-\> terraform state list 
+\> terraform state show \<resource\>
+
+\# display your output
+
+\> terraform output
+
+\> terraform refresh
+
+\# destroy one resource
+
+\> terraform destroy -target \<resource\>
+
+\# create one resource
+
+\> terraform apply -target \<resource\>
 
 ## 2) open terminal to access the ubuntu server.
 
