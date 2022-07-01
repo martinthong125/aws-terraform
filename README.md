@@ -1,6 +1,8 @@
 # aws-terraform
 Using terraform as IaC in AWS
 
+Video reference: https://www.youtube.com/watch?v=SLB_c_ayRMo&t=4185s
+
 
 After using terraform apply to create the infrastructure, 
 
